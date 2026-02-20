@@ -58,7 +58,8 @@ python main.py example.com -p 1-1000 -t 200 --timeout 1 --ping 3 -o result.txt
 ## 📦 Installation
 
 ```bash
-git clone https://github.com/EhsanOrg009/tcp-ping-tool.git
-cd tcp-ping-tool
+git clone https://github.com/EhsanOrg009/advanced-tcp-scanner.git
+cd advanced-tcp-scanner
 
 ```
+
